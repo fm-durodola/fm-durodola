@@ -2,12 +2,13 @@
 
 I am a passionate self thought BACKEND Developer, driven by a curiosity for technology and a love for coding. My journey involves delving into the world of programming, exploring new ideas, and sharing my insights with the community.
 
-![fm-durodola's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![fm-durodola's Stats](https://github-readme-stats.vercel.app/api?username=fm-durodola&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🔭 I'm currently pursuing to be a FULLSTACK Developer.
+- Planning on build a big project of my own, a Page builder like Webflow.
+<!--- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.--->
 <!--- - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.--->
 <!--- - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.--->
 
